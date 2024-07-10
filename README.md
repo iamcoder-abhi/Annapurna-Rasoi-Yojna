@@ -1,6 +1,7 @@
-Annapurna Rasoi Yojna Project Description :-
+# Annapurna Rasoi Yojna Project Description :-
 The Annapurna Rasoi Yojna is an ambitious initiative aimed at ensuring the distribution of healthy food across the state, leveraging advanced technology and innovative logistics. This project is designed to reach every single corner of the city, ensuring no one is left behind.
-Key features of the project include:
+
+# Key features of the project include:
 
 Comprehensive Coverage:- The initiative operates in all 33 districts of the state, utilizing 608 food vans to ensure wide-reaching distribution.
 
